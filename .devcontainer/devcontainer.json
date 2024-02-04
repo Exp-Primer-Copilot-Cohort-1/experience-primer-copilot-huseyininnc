@@ -1,0 +1,10 @@
+{
+    "name": "Main Configuration",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
